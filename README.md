@@ -55,7 +55,7 @@ This project showcases an end-to-end sales analysis of a chocolate manufacturing
 
 ### Product Discontinuation Analysis
 
-![Products to Discontinue](images/Products_to_Discontinue.png)
+![Products_to_Discontinue](images/Products_to_Discontinue.png)
 
 ### Sales by Country Analysis
 
