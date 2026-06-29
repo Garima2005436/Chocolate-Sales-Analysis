@@ -45,6 +45,10 @@ This project showcases an end-to-end sales analysis of a chocolate manufacturing
 
 ## 🖼 Project Screenshots
 
+### Dataset & Problem Statement
+
+![Problem Statement](images/Problem_statement.png)
+
 ### Dynamic Country-Level Sales Report
 
 ![Dynamic Report](images/Dynamic_Country_Sales_Report.png)
